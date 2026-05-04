@@ -4,9 +4,9 @@
 # Fecha: 04/05/2026
 #---------------------------------------------------------------
 def main():
-    print("Hola que hace :v, bienvenido al Caralibro del 2017")
+    print("Hola")
     nombre=input("Ingrese tu nombre epicamente: ")
-    print("Hola criaturita del señor con nombre ",nombre,"bienvenido al planeta tierra")
+    print("Hola persona con ",nombre,"bienvenido al programa")
 
 if __name__ == "__main__":
         main()
