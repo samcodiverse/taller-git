@@ -4,8 +4,9 @@
 # Fecha: 04/05/2026
 #---------------------------------------------------------------
 def main():
-    nombre=input("Cómo te llamas: ")
-    print("Hola",nombre,"bienvenido a mi mundo")
+    nombre=input("Hola que hace :v, bienvenido al Caralibro del 2017: ")
+    print("Hola criaturita del señor con nombre ",nombre,"bienvenido al planeta tierra")
 
 if __name__ == "__main__":
         main()
+
